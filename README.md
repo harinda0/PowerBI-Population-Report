@@ -4,7 +4,8 @@ This report was my first hands-on project in the Visualizations and Leadership c
 
 # Key features of this report include:
 
-Data Transformation: Conversion from PDF to CSV and subsequent cleaning and preparation.
-Visualization Techniques: Strategic selection of visualization types to effectively communicate the data insights.
-Interactive Dashboards: User-friendly and interactive elements to enhance data exploration and understanding.
+**Data Transformation:** Conversion from PDF to CSV and subsequent cleaning and preparation.
+**Visualization Techniques:** Strategic selection of visualization types to effectively communicate the data insights.
+**Interactive Dashboards:** User-friendly and interactive elements to enhance data exploration and understanding.
+
 This project provided foundational experience in selecting the correct types of visualizations to effectively represent various data aspects.
